@@ -22,4 +22,4 @@
 
 ## :books: Theory
 * [Subqueries](https://medium.com/@sumitkum001/mastering-sql-subqueries-and-query-optimisation-2991ce5db7be)
-  
+* [Difference between correlated and non-correlated subqueries](https://www.youtube.com/watch?v=QaRVoXOyob8)
