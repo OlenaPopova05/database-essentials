@@ -15,6 +15,8 @@ A library management system is a software application that helps librarians mana
 >* *Customer:* This table stores information about each customer who has registered with the library, such as name, address, phone, email, and password. 
 >* *Loan:* This table stores information about each loan that records the borrowing and returning of books by customers, books, loan date, due date, and return date. 
 
+[Here you can look at the diagram of this database.](https://github.com/OlenaPopova05/database-essentials/blob/main/Assignment%201/database_diagram.png)
+
 ## :books: Theory
 * [MySQL Database Creation](https://medium.com/@evan_73138/mysql-database-creation-made-easy-step-by-step-tutorial-part-1-set-up-your-first-table-3e0ea182806b)
 
