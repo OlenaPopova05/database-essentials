@@ -7,11 +7,11 @@ This repository includes:
 * [How to install MySQL](https://github.com/Bardin08/kse-examples/blob/master/database-essentials/readme.md)
 * [Useful sources that will help you to start learning MySQL](#books-sources)
 * Assignments:
-  * [Assignment 1.](https://github.com/OlenaPopova05/database-essentials/tree/main/Assignment%201) Design a relational database for a library management system
-  * [Assignment 2.](https://github.com/OlenaPopova05/database-essentials/tree/main/Assignment%202) Junction tables for many-to-many relationships
-  * [Assignment 3.](https://github.com/OlenaPopova05/database-essentials/tree/main/Assignment%203) SQL subqueries and sets
-  * [Assignment 4.](https://github.com/OlenaPopova05/database-essentials/tree/main/Assignment%204) Stored procedures and transactions
-  * [Assignment 5.](https://github.com/OlenaPopova05/database-essentials/tree/main/Assignment%205) View
+  * [Assignment 1.](https://github.com/OlenaPopova05/database-essentials/blob/main/Assignment%201/Assignment_1.md) Design a relational database for a library management system
+  * [Assignment 2.](https://github.com/OlenaPopova05/database-essentials/blob/main/Assignment%202/Assignment_2.md) Junction tables for many-to-many relationships
+  * [Assignment 3.](https://github.com/OlenaPopova05/database-essentials/blob/main/Assignment%203/Assignment_3.md) SQL subqueries and sets
+  * [Assignment 4.](https://github.com/OlenaPopova05/database-essentials/blob/main/Assignment%204/Assignment_4.md) Stored procedures and transactions
+  * [Assignment 5.](https://github.com/OlenaPopova05/database-essentials/blob/main/Assignment%205/Assignment_5.md) View
 * [Research of extra topic](https://github.com/OlenaPopova05/database-essentials/blob/main/Data%20modeling%20techniques.pdf)
 
 ## :seedling: Overview of the course
