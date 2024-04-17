@@ -20,6 +20,8 @@
 
 [Here you can see the updated database.](https://github.com/OlenaPopova05/database-essentials/blob/main/Assignment%202/database.sql)
 
+[And here its diagram.](https://github.com/OlenaPopova05/database-essentials/blob/main/Assignment%202/database_diagram.png)
+
 ## :books: Theory
 
 * [Relationships When Designing A Database](https://medium.com/@emekadc/how-to-implement-one-to-one-one-to-many-and-many-to-many-relationships-when-designing-a-database-9da2de684710)
