@@ -4,6 +4,7 @@
 
 >Design [a relational database for a library management system](https://github.com/OlenaPopova05/database-essentials/blob/main/Assignment%201/database.sql). The database should store information about books, authors, publishers, genres, customers, and loans. 
 
+
 ## :seedling: Description
 
 A library management system is a software application that helps librarians manage the inventory, circulation, and cataloging of books. 
@@ -13,7 +14,9 @@ A library management system is a software application that helps librarians mana
 >* *Publisher:* This table stores information about each publisher who has published one or more books in the library, such as name, address, phone, and website. 
 >* *Genre:* This table stores information about each genre that categorizes one or more books in the library, such as name and description. 
 >* *Customer:* This table stores information about each customer who has registered with the library, such as name, address, phone, email, and password. 
->* *Loan:* This table stores information about each loan that records the borrowing and returning of books by customers, books, loan date, due date, and return date. 
+>* *Loan:* This table stores information about each loan that records the borrowing and returning of books by customers, books, loan date, due date, and return date.
+>  
+> ![image](https://github.com/OlenaPopova05/database-essentials/assets/150719242/a57ee744-dc07-486c-95f6-ce110ad21aba)
 
 [Here you can look at the diagram of this database.](https://github.com/OlenaPopova05/database-essentials/blob/main/Assignment%201/database_diagram.png)
 
